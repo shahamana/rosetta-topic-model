@@ -2,6 +2,10 @@
 
 ### Datasets
 
+2023 Rosetta Student Data
+
+da/processed: Processed Danish Text Corpus from https://www.statmt.org/europarl/
+
 ### The Files
 
 bert_student_analysis.ipynb: BERTopic analysis performed on the 2023 student data.
